@@ -1,0 +1,6 @@
+sir,Please use codechef IDE for checking my solution.
+Also in Problem 2,only full name should have input with space,
+for other variables like course code,id and branch,i have assumed that 
+there will be no input containing space that will be fed to these variables.
+
+Example: For full name,input can be "Hemant gupta" while the same may not work for course code,so "CSN 520" should not work (unlike "CSN-520")
